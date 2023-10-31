@@ -2,6 +2,12 @@
 <h2 align="center">Bachelor’s in Engineering || Computer Science || Young researcher</h2>
 <h3 align="center">I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated young researcher. My research areas lie in computational imaging, privacy-preserving techniques, medical imaging, deep learning, and machine learning. My motivation stems from a profound passion for research. I'm driven by the belief that technology and innovation can bring about positive change, and I'm dedicated to contributing to the development of Colombia.</h3>
 
+- 🔭 I’m currently part of [HDSP reasearch group](https://hdspgroup.github.io/)
+
+- 👨‍💻 All of my projects are available at [paularguello.github.io](paularguello.github.io)
+
+- 📫 How to reach me **paulaargutierrez@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paula-andrea-arguello-20a814225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula-andrea-arguello-20a814225" height="30" width="40" /></a>
