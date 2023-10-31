@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Paula Arguello
+I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated young researcher. My research areas lies in computational imaging, privacy-preserving techniques, medical imaging, deep learning, and machine learning.
+My motivation stems from a profound passion for research. I'm driven by the belief that technology and innovation can bring about positive change, and I'm dedicated to contributing to the development of Colombia.
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paularguello07&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **paularguello07/paularguello07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
