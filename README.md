@@ -6,8 +6,10 @@
 
 - 👨‍💻 All of my projects are available at [paularguello.github.io](paularguello.github.io)
 
+- 📝 Find me in [Google Scholar](https://scholar.google.com/citations?user=TTo5b-cAAAAJ&hl=es)
+
 - 📫 How to reach me **paulaargutierrez@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paula-andrea-arguello-20a814225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paula-andrea-arguello-20a814225" height="30" width="40" /></a>
