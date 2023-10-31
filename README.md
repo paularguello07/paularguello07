@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paularguello07&show_icons=true&locale=en&layout=compact&theme=dark" alt="paularguello07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paularguello07&show_icons=true&locale=en" alt="paularguello07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paularguello07&show_icons=true&locale=en&theme=dark" alt="paularguello07" /></p>
