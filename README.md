@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Descripción alternativa de la imagen">
+  <img src="a (3).png" alt="Descripción alternativa de la imagen">
 </p>
 
 <h1 align="center">Hi there👋, I'm Paula Arguello</h1>
