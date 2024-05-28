@@ -6,6 +6,8 @@
 <h3 align="center">Bachelor’s in Engineering || Computer Science || Young researcher</h3>
 <p align="center">I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated young researcher. My research areas lie in computational imaging, privacy-preserving techniques, medical imaging, deep learning, and machine learning. My motivation stems from a profound passion for research. I'm driven by the belief that technology and innovation can bring about positive change, and I'm dedicated to contributing to the development of Colombia.</p>
 
+- 🙋🏻‍♀️ Checkout my [cv webpage](https://paularguello.me/)
+
 - 🔭 I’m currently part of [HDSP reasearch group](https://hdspgroup.github.io/)
 
 - 📝 Find me in [Google Scholar](https://scholar.google.com/citations?user=TTo5b-cAAAAJ&hl=es)
@@ -17,4 +19,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paularguello07&show_icons=true&locale=en&layout=compact&theme=dark" alt="paularguello07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paularguello07&show_icons=true&locale=en&theme=dark" alt="paularguello07" /></p>
