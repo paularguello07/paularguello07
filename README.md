@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Paula Arguello.png" alt="Descripción alternativa de la imagen">
-</p>
-
 <h1 align="center">Hi there👋, I'm Paula Arguello</h1>
 <h3 align="center">Bachelor’s in Engineering || Computer Science || Young researcher</h3>
 <p align="center">I am a Systems Engineering student at Universidad Industrial de Santander and a dedicated young researcher. My research areas lie in computational imaging, privacy-preserving techniques, medical imaging, deep learning, and machine learning. My motivation stems from a profound passion for research. I'm driven by the belief that technology and innovation can bring about positive change, and I'm dedicated to contributing to the development of Colombia.</p>
